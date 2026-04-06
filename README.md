@@ -14,3 +14,5 @@ Simple web app to track scores for two teams.
 
 ## Run
 Open `index.html` in your browser.
+
+Changes have been made to the headers
